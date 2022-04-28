@@ -1,7 +1,18 @@
-README.md
+## Regression Analysis and Twitter Sentiment Analysis
+### Regression Analysis:
+
+I did Regression Analysis on two different dataset with different models.
+
+### Player-Centric Time-based Sentiment Tracking and Prediction From Twitter Data.
+
+Given tweets data on Superbowl 49, patriots and hawks hashtags, I tried to answer following questions:
+
+For each fan group, can we track the average perceived emotion in the tweets about each player across time during the game?
+Can we correlate these emotions with the game score in the given time interval?
+Given the tweets emotions about some players for 1 minutee interval can we predict who is winning the game?
 
 
-For Project4:
+#### Instructions to Run the Code
 
 There are 3 separate notebooks:
 - Project_4_Part1_Regression_Analysis.ipynb: Part 1 notebook
