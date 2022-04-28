@@ -1,11 +1,10 @@
-README.md
 
+### Movie Recommender System
 
-For Project3:
+I built and evaluated different recommendation models (KNN, NMF, MF and naive approaches) to predict the ratings of movies. 
+MovieLens dataset is used.
 
-
-
-How to run the project_3.ipynb notebook:
+#### Instructions to run the project_3.ipynb notebook
 
 On Colab:
 - You can directly run the notebook on Colab. you need to download surprise library to the environment first !pip install scikit-surprise.
